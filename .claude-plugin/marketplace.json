@@ -1,0 +1,11 @@
+{
+  "name": "vinay-storytelling",
+  "owner": { "name": "Vinay Chahal" },
+  "plugins": [
+    {
+      "name": "story-12-levels",
+      "source": "./",
+      "description": "The 12 story levels with a scorecard, crazy-simple words, shots-first writing, hook testing and an idea test, for any video script."
+    }
+  ]
+}
